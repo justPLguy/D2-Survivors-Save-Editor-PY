@@ -1,135 +1,46 @@
-# D2 Survivors Save Editor — Python
+# D2 Survivors Save Editor — original Python tool (archived)
 
-**A community-made save editor for D2 Survivors, created by Just a Polish Guy.**
+**The free D2 Survivors save editor is now an online, browser-based tool.** This repository is where it all started: the original Python **D2 Survivors Save Editor** for editing gold (also searched as *D2 Survivors editor*, *D2 Survivors item editor*, *D2 Survivors gold editor*, *D2 Survivors cheat*, *D2 Survivors trainer*, *D2 Survivors mod*). It is **no longer maintained**.
 
-D2 Survivors Save Editor is a tool designed to edit supported game save data through a convenient interface.
+> ⚠️ **This Python version is no longer maintained.** Use the online **D2 Survivors save editor** instead — no Python, nothing to install, runs in your browser.
 
-This repository contains the **Python version** of the editor. It is intended for users who want to run the Python script directly on their Windows PC.
+## 👉 Use the current D2 Survivors save editor (online, free)
 
-Prefer not to run Python scripts? Check out the standalone **EXE version** or the **Web version**!
+**https://d2-survivors-save-editor.justplguy.workers.dev/**
 
----
+- The **D2 Survivors save editor** works on **both PC and phone** — anything with a modern browser
+- **Nothing to download, install or run** — no Python, just open the link
+- **No antivirus warnings** ever
+- Your D2 Survivors save never leaves your device
+- Edit items, runewords, sockets & jewels, skills, gold, uber keys & organs, tempering — a full **D2 Survivors item editor / gold editor** in one page
+- Available in 6 languages
+- Always **free**
 
-## 🚀 Choose Your Version
+## From a Python script to a full D2 Survivors editor
 
-| Version | Description | Repository |
-|---|---|---|
-| 🐍 **Python** | Run the Python script directly. | [Python Repository](https://github.com/justPLguy/D2-Survivors-Save-Editor-PY) |
-| 💻 **EXE** | Standalone Windows application. | [EXE Repository](https://github.com/justPLguy/D2-Survivors-Save-Editor-EXE) |
-| 🌐 **Web** | Browser-based version. | [Web Repository](https://github.com/justPLguy/D2-Survivors-Save-Editor-Web) |
+This started as a simple Python **D2 Survivors gold editor** — handy, but you had to grab the files and run it yourself, and the packaged downloads that followed kept tripping **false-positive antivirus warnings** on a tool that was never doing anything harmful. That scared plenty of players off before they ever got to use it.
 
-**Which version should you choose?**
+So we did what players were actually asking for: **we moved the whole thing into the browser.** No Python, no installer, nothing for your antivirus to panic about — you just open a link and the **D2 Survivors save editor** runs. And since it is a web page now, it works the same on **PC and on your phone**, for free, with your save staying on your own device.
 
-- Choose **Python** if you want to run the source script yourself.
-- Choose **EXE** if you want a ready-to-run Windows application.
-- Choose **Web** if you prefer using a browser.
+## 💬 Help & updates
 
-Features and requirements may vary between versions.
+Join the Discord — guides, help and every new release of the **D2 Survivors save editor**:
+**https://discord.gg/nENzQxTh4**
 
-## ✨ Features
+## Frequently searched
 
-The editor supports various save-editing functions, depending on the release, which may include:
+- **Is there a D2 Survivors save editor?** Yes — a free online one: https://d2-survivors-save-editor.justplguy.workers.dev/
+- **D2 Survivors editor download / no download?** No download needed any more — it runs in the browser on PC and phone.
+- **D2 Survivors gold editor / max gold?** Yes, set gold and Charsi upgrades in the online editor.
+- **D2 Survivors item editor / runeword / socket / jewel / temper editor?** All in the online editor.
+- **D2 Survivors cheat / trainer / mod — is it safe?** It only edits your local save; edited saves are marked by the game and kept off leaderboards. For offline fun.
 
-- Gold editing.
-- Supported character and equipment modifiers.
-- Supported skill editing.
-- Belt slot and potion editing.
-- A graphical interface for managing supported save data.
+## Also known as / search terms
 
-Check the latest release notes for the exact feature list.
-
-## 🐍 How to Run the Python Version
-
-### Requirements
-
-- Windows PC.
-- Python installed on your computer.
-- A compatible D2 Survivors save file.
-- Any additional dependencies specified by the release.
-
-### 1. Install Python
-
-Download Python from the official website:
-
-[**https://www.python.org/downloads/**](https://www.python.org/downloads/)
-
-During installation, enable **Add Python to PATH** if the option is available.
-
-### 2. Download the Editor
-
-1. Open this repository.
-2. Click **Code → Download ZIP**.
-3. Extract the ZIP archive to a folder on your computer.
-
-You can also download the script from the repository or the relevant release.
-
-### 3. Launch the Editor
-
-Open the folder containing the Python script.
-
-Click the folder's address bar, type `cmd`, and press Enter.
-
-Run:
-
-```bash
-python your_editor_file.py
-```
-
-Replace `your_editor_file.py` with the actual filename.
-
-If the `python` command does not work, try:
-
-```bash
-py your_editor_file.py
-```
-
-If the editor requires additional packages, install the dependencies specified by the relevant release before launching it.
-
-### 4. Edit Your Save
-
-1. Open the editor.
-2. Load a compatible save file.
-3. Modify the data supported by your version.
-4. Save or export the edited file using the available options.
-5. Follow any additional instructions provided by the editor.
-
-**Always back up your original save before making changes.**
-
-## ⚠️ Important Warning
-
-Editing a save may cause the character to be marked as edited. Runs made with a marked character may not count towards leaderboards.
-
-Use the editor at your own risk. Keep an untouched backup of your original save and check the character's status in-game after editing.
-
-## 📦 Releases & Patch Notes
-
-Every release has its own patch notes describing changes, new features, fixes, and known issues.
-
-For the latest version and version-specific information, visit:
-
-**[➡️ Python Releases](https://github.com/justPLguy/D2-Survivors-Save-Editor-PY/releases)**
-
-The main README contains general project information. Detailed changes belong in the corresponding release notes.
-
-## 🔗 Other Projects
-
-- 🐍 [D2 Survivors Save Editor — Python](https://github.com/justPLguy/D2-Survivors-Save-Editor-PY)
-- 💻 [D2 Survivors Save Editor — EXE](https://github.com/justPLguy/D2-Survivors-Save-Editor-EXE)
-- 🌐 [D2 Survivors Save Editor — Web](https://github.com/justPLguy/D2-Survivors-Save-Editor-Web)
-
-## 📺 Follow Just a Polish Guy
-
-Follow my channels for updates, tutorials, gaming content, and more.
-
-- **YouTube:** [@justPLguy](https://www.youtube.com/@justPLguy)
-- **Facebook:** [Just a Polish Guy](https://www.facebook.com/justPLguy/)
-
-## 👤 About the Creator
-
-Created by **Just a Polish Guy** for the D2 Survivors community.
-
-If you find this project useful, consider following my channels and checking out the other versions of the editor.
+D2 Survivors save editor · D2 Survivors editor · D2 Survivors item editor · D2 Survivors gold editor · D2 Survivors save file editor · D2 Survivors online editor · D2 Survivors browser editor · D2 Survivors cheat · D2 Survivors trainer · D2 Survivors mod · D2 Survivors hack · edit D2 Survivors save · D2 Survivors max gold · D2 Survivors runeword generator · D2 Survivors item generator · Diablo 2 Survivors editor · free D2 Survivors editor
 
 ---
 
-*D2 Survivors Save Editor is an independent community-made project. It is not an official game tool and is not affiliated with the game's developers.*
+This repository stays up as an archive of the original Python version of the **D2 Survivors Save Editor**. It is not updated and may not work with current game builds. Please use the online editor above instead.
+
+*Made by **Just a Polish Guy**.*
